@@ -184,6 +184,7 @@
 		2C6EFFDDD2231DBF4D788390 /* joybtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C6EF83B5850E3703394ABD5 /* joybtn.png */; };
 		2C6EFFF333AE44551F691047 /* explosion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C6EF4BDFA6D6CEEC971E6E1 /* explosion1.png */; };
 		9715A5631DEB497600A51847 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9715A5621DEB497600A51847 /* Default-568h@2x.png */; };
+		97D091341DEB514500157BB2 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 97D091331DEB514500157BB2 /* Icon-120.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -521,6 +522,7 @@
 		2C6EFFE7207F63A45E944BA1 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		2C6EFFE9E011A7BE489A663A /* GameKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GameKit.framework; path = System/Library/Frameworks/GameKit.framework; sourceTree = SDKROOT; };
 		9715A5621DEB497600A51847 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		97D091331DEB514500157BB2 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120.png"; path = "Resources/Icon-120.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1047,6 +1049,7 @@
 		2C6EFDF93358A40DBC3A7E38 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				97D091331DEB514500157BB2 /* Icon-120.png */,
 				2C6EF5743F891A88AB944227 /* iTunesArtwork */,
 				2C6EF55A3AE1B4D42FEC658E /* Info.plist */,
 				2C6EFB01EA08FD58347304D2 /* Icon@2x.png */,
@@ -1189,6 +1192,7 @@
 				2C6EFCBD4821410DDD81C22A /* bomb_sound.mp3 in Resources */,
 				2C6EFD3486C753749C449C40 /* boss_small.png in Resources */,
 				2C6EFD2C995A914ED68E7D90 /* boss_bullet.png in Resources */,
+				97D091341DEB514500157BB2 /* Icon-120.png in Resources */,
 				2C6EF65E21C79967A8F9B30E /* map.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
